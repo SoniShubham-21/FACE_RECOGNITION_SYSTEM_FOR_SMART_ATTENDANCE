@@ -45,6 +45,10 @@ This will activate the webcam and start the face recognition process.
 
 The system will provide instructions or feedback through the console during operation. Refer to the main script or other project documentation for specific details on the output format.
 
+## PPT LINK
+
+https://www.canva.com/design/DAGDyEf8FtU/c2GkCcxDlnuxHJldPZCzXg/edit?utm_content=DAGDyEf8FtU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton 
+
 ### SCREENSHOT :
 
 ![image](https://github.com/SoniShubham-21/FACE_RECOGNITION_SYSTEM_FOR_SMART_ATTENDANCE/assets/149899320/3a2058f2-26bd-489b-976c-714397387bfe)
